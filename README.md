@@ -34,7 +34,7 @@
 
 ```
 ## Deployed to Heroku
-[Live link](https://radiant-eyrie-39526.herokuapp.com/)
+[Live link](https://protected-wildwood-83041.herokuapp.com/burgers/)
 
 ## Technologies
 - Node.js
